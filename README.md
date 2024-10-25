@@ -1,0 +1,1 @@
+podstawowe wtyczki do Kodi
